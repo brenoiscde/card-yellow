@@ -41,6 +41,11 @@ body{
 img, .nome{
     display: inline-block;
 }
+.minha-foto{
+    border-radius: 100%;
+    width: 80px;
+    height: 80px;
+}
 .container{
     display: flex;
     align-items: center;
